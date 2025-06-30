@@ -1,0 +1,60 @@
+﻿# Web Framework
+Flask==3.0.3
+Jinja2==3.1.4
+Werkzeug==3.0.3
+
+# Desktop App
+pywebview==4.2.2
+
+# Data Processing (Optimized)
+polars==0.20.31
+pandas==2.2.2
+numpy==1.26.4
+
+# High-Performance Computing
+numba==0.60.0
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# Technical Analysis
+# TA-Lib==0.4.28
+ta-lib==0.6.4 ; platform_system=="Windows"
+
+
+# API and Networking
+requests==2.32.3
+aiohttp==3.9.5
+websocket-client==1.8.0
+
+# Cryptocurrency APIs
+ccxt==4.3.37
+
+# Date/Time
+python-dateutil==2.9.0
+
+# Math and Statistics
+scipy==1.13.1
+
+# Scheduling
+schedule==1.2.1
+
+# Development and Packaging
+PyInstaller==6.8.0
+pyinstaller-hooks-contrib==2024.6
+
+# Logging and Monitoring
+colorlog==6.8.2
+
+# Configuration
+python-dotenv==1.0.1
+
+# Async Support
+asyncio-throttle==1.0.2
+
+# Performance Monitoring
+psutil==5.9.8
+
+# Data Validation
+cerberus==1.3.5

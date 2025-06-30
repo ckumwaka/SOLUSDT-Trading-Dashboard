@@ -1,0 +1,1565 @@
+2025-06-30 15:18:38,261 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:18:38,288 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:18:38,291 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:18:38,774 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:18:38] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:18:38,775 - __main__ - INFO - Flask server is ready
+2025-06-30 15:18:38,776 - __main__ - INFO - Launching desktop application...
+2025-06-30 15:18:40,958 - main - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 47, in dashboard
+    """Main dashboard route"""[9][12]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: string index out of range
+2025-06-30 15:18:40,967 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:18:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 15:18:41,060 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:18:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:18:49,569 - __main__ - INFO - Application shutdown complete
+2025-06-30 15:26:04,831 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:26:04,894 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:26:04,896 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:26:05,369 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:26:05] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:26:05,374 - __main__ - INFO - Flask server is ready
+2025-06-30 15:26:05,375 - __main__ - INFO - Launching desktop application...
+2025-06-30 15:26:06,848 - main - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 47, in dashboard
+    """Main dashboard route"""[9][12]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: string index out of range
+2025-06-30 15:26:06,854 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:26:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 15:26:06,988 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:26:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:26:15,292 - __main__ - INFO - Application shutdown complete
+2025-06-30 15:28:20,822 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:28:20,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:28:20,847 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:28:21,335 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:28:21] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:28:21,338 - __main__ - INFO - Flask server is ready
+2025-06-30 15:28:21,339 - __main__ - INFO - Launching desktop application...
+2025-06-30 15:28:22,747 - main - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 47, in dashboard
+    """Main dashboard route"""[9][12]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: string index out of range
+2025-06-30 15:28:22,761 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:28:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 15:28:22,844 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:28:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:28:28,475 - __main__ - INFO - Application shutdown complete
+2025-06-30 15:29:07,213 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:29:07,249 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:29:07,250 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:29:07,722 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:29:07] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:29:07,725 - __main__ - INFO - Flask server is ready
+2025-06-30 15:29:07,725 - __main__ - INFO - Launching desktop application...
+2025-06-30 15:29:09,214 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 53, in dashboard
+    result = market_analyzer.analyze_market(DEFAULT_SYMBOL)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 225, in analyze_market
+    """Comprehensive market analysis with ML integration"""[17][20]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: string index out of range
+2025-06-30 15:29:09,247 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:29:09] "GET / HTTP/1.1" 200 -
+2025-06-30 15:29:09,322 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:29:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:29:13,490 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 53, in dashboard
+    result = market_analyzer.analyze_market(DEFAULT_SYMBOL)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 225, in analyze_market
+    """Comprehensive market analysis with ML integration"""[17][20]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: string index out of range
+2025-06-30 15:29:13,493 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:29:13] "GET / HTTP/1.1" 200 -
+2025-06-30 15:29:21,263 - __main__ - INFO - Application shutdown complete
+2025-06-30 15:30:12,165 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:30:12,192 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:30:12,193 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:30:12,692 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:30:12] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:30:12,695 - __main__ - INFO - Flask server is ready
+2025-06-30 15:30:12,696 - __main__ - INFO - Launching desktop application...
+2025-06-30 15:30:14,444 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 15:30:14,679 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 15:30:15,328 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 15:30:17,071 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:30:17,098 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:30:17,116 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:30:17,426 - feature_engineering - INFO - Generated 23 features from 500 data points
+2025-06-30 15:30:19,150 - trading_logic - ERROR - Market analysis failed
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 262, in analyze_market
+    signal_analysis = self._generate_trading_signal(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 429, in _generate_trading_signal
+    tp, sl = self.risk_manager.calculate_dynamic_stops(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 202, in calculate_dynamic_stops
+    """Calculate dynamic TP/SL based on ATR and market volatility"""[3][6]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: string index out of range
+2025-06-30 15:30:19,154 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:30:19] "GET / HTTP/1.1" 200 -
+2025-06-30 15:30:19,234 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:30:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:30:22,381 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:30:22] "GET / HTTP/1.1" 200 -
+2025-06-30 15:31:00,905 - __main__ - INFO - Application shutdown complete
+2025-06-30 15:31:36,866 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:31:36,891 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:31:36,892 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:31:37,383 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:31:37] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:31:37,386 - __main__ - INFO - Flask server is ready
+2025-06-30 15:31:37,387 - __main__ - INFO - Launching desktop application...
+2025-06-30 15:31:39,063 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 15:31:39,295 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 15:31:39,525 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 15:31:41,258 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:31:41,271 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:31:41,287 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:31:41,594 - feature_engineering - INFO - Generated 23 features from 500 data points
+2025-06-30 15:31:42,760 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 74, in dashboard
+    return render_template('dashboard.html',
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Cyprian\SOL_Trading\templates\dashboard.html", line 574, in top-level template code
+    <div class="metric-subtitle">Risk {{ "%.1f"|format(abs((result.sl - result.price) / result.price * 100)) }}%</div>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'abs' is undefined
+2025-06-30 15:31:42,765 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:31:42] "GET / HTTP/1.1" 200 -
+2025-06-30 15:31:42,816 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:31:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:31:49,592 - __main__ - INFO - Application shutdown complete
+2025-06-30 15:52:10,685 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 15:52:10,710 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:52:10,711 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:52:11,198 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:52:11] "GET /health HTTP/1.1" 200 -
+2025-06-30 15:52:13,965 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 15:52:14,206 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 15:52:14,443 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 15:52:16,164 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:52:16,190 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:52:16,210 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 15:52:16,503 - feature_engineering - INFO - Generated 23 features from 500 data points
+2025-06-30 15:52:17,555 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 15:52:17,721 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 75, in dashboard
+    return render_template(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Cyprian\SOL_Trading\templates\dashboard.html", line 684, in top-level template code
+    <div class="metric-value">{{ "{:,.0f}"|format(result.volume) }}</div>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\filters.py", line 1030, in do_format
+    return soft_str(value) % (kwargs or args)
+           ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+2025-06-30 15:52:17,726 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:52:17] "GET / HTTP/1.1" 200 -
+2025-06-30 15:52:17,799 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:52:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:02:53,290 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 16:02:53,317 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 16:02:53,317 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:02:53,798 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:53] "GET /health HTTP/1.1" 200 -
+2025-06-30 16:02:55,524 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:02:55,756 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:02:55,989 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:02:57,579 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 16:02:57,599 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 16:02:57,618 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 16:02:57,902 - feature_engineering - INFO - Generated 23 features from 500 data points
+2025-06-30 16:02:58,814 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:02:58,946 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 75, in dashboard
+    return render_template(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Cyprian\SOL_Trading\templates\dashboard.html", line 664, in top-level template code
+    <div class="metric-value">${{ "%.2f"|format(result.ema_20) }}</div>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\filters.py", line 1030, in do_format
+    return soft_str(value) % (kwargs or args)
+           ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'ema_20'
+2025-06-30 16:02:58,952 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:58] "GET / HTTP/1.1" 200 -
+2025-06-30 16:02:59,036 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:04:07,432 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 16:04:07,463 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 16:04:07,463 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:04:07,946 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:07] "GET /health HTTP/1.1" 200 -
+2025-06-30 16:04:09,713 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:04:09,940 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:04:10,167 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:04:11,931 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 16:04:11,945 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 16:04:11,966 - trading_logic - INFO - Calculated 35 technical indicators
+2025-06-30 16:04:12,261 - feature_engineering - INFO - Generated 23 features from 500 data points
+2025-06-30 16:04:13,295 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:04:13,467 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 75, in dashboard
+    return render_template(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Cyprian\SOL_Trading\templates\dashboard.html", line 664, in top-level template code
+    <div class="metric-value">${{ "%.2f"|format(result.ema_20) }}</div>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\jinja2\filters.py", line 1030, in do_format
+    return soft_str(value) % (kwargs or args)
+           ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'ema_20'
+2025-06-30 16:04:13,474 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:13] "GET / HTTP/1.1" 200 -
+2025-06-30 16:04:13,528 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:30:51,373 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 16:30:51,400 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 16:30:51,401 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:30:51,891 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:30:51] "GET /health HTTP/1.1" 200 -
+2025-06-30 16:30:53,587 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:30:53,814 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:30:54,046 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:30:54,047 - feature_engineering - ERROR - Missing required columns: ['RSI', 'MACD', 'MACD_Signal', 'EMA_20', 'EMA_50', 'ATR']
+2025-06-30 16:30:55,251 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:30:55,260 - trading_logic - ERROR - Market analysis failed
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 47, in analyze_market
+    ml_score = predict_signal(None, features)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\ml_model.py", line 176, in predict_signal
+    return _ml.predict_proba(features)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\ml_model.py", line 137, in predict_proba
+    X_s = self.scaler.transform(X)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 313, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 1658, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\base.py", line 633, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1087, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 23)) while a minimum of 1 is required by RobustScaler.
+2025-06-30 16:30:55,340 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:30:55] "GET / HTTP/1.1" 200 -
+2025-06-30 16:30:55,418 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:30:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:33:28,468 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 16:33:28,496 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 16:33:28,497 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:33:28,985 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:33:28] "GET /health HTTP/1.1" 200 -
+2025-06-30 16:33:30,800 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:33:31,033 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:33:31,259 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:33:31,261 - feature_engineering - ERROR - Missing required columns: ['RSI', 'MACD', 'MACD_Signal', 'EMA_20', 'EMA_50', 'ATR']
+2025-06-30 16:33:32,314 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:33:32,321 - trading_logic - ERROR - Market analysis failed
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 39, in analyze_market
+    ml_score = predict_signal(None, features) if model_loaded else 0.5
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\ml_model.py", line 176, in predict_signal
+    return _ml.predict_proba(features)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\ml_model.py", line 137, in predict_proba
+    X_s = self.scaler.transform(X)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 313, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 1658, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\base.py", line 633, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1087, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 23)) while a minimum of 1 is required by RobustScaler.
+2025-06-30 16:33:32,325 - __main__ - ERROR - Dashboard error
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 39, in analyze_market
+    ml_score = predict_signal(None, features) if model_loaded else 0.5
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\ml_model.py", line 176, in predict_signal
+    return _ml.predict_proba(features)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\ml_model.py", line 137, in predict_proba
+    X_s = self.scaler.transform(X)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 313, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 1658, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\base.py", line 633, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1087, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 23)) while a minimum of 1 is required by RobustScaler.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\main.py", line 54, in dashboard
+    result = market_analyzer.analyze_market(DEFAULT_SYMBOL)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 71, in analyze_market
+    return self._get_error_response(str(e))
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MarketAnalyzer' object has no attribute '_get_error_response'
+2025-06-30 16:33:32,332 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:33:32] "GET / HTTP/1.1" 200 -
+2025-06-30 16:33:32,407 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:33:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:41:07,825 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 16:41:07,851 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 16:41:07,852 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:41:08,343 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:41:08] "GET /health HTTP/1.1" 200 -
+2025-06-30 16:41:11,241 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:41:11,479 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:41:11,711 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:41:11,711 - trading_logic - ERROR - Market analysis failed
+Traceback (most recent call last):
+  File "C:\Users\Cyprian\SOL_Trading\trading_logic.py", line 30, in analyze_market
+    df_15m = self.calculate_advanced_indicators(df_15m)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MarketAnalyzer' object has no attribute 'calculate_advanced_indicators'
+2025-06-30 16:41:11,716 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:41:11] "GET / HTTP/1.1" 200 -
+2025-06-30 16:41:11,874 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:41:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:48:33,259 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 16:48:33,283 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 16:48:33,283 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:48:33,773 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:48:33] "GET /health HTTP/1.1" 200 -
+2025-06-30 16:48:35,587 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:48:35,819 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:48:36,050 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:48:36,400 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:48:36,480 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:48:36,590 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:48:36] "GET / HTTP/1.1" 200 -
+2025-06-30 16:48:36,780 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:48:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:49:06,368 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:49:06] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 16:49:07,348 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:07 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:49:07,349 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:07 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:49:07,350 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:49:07,351 - websocket_manager - INFO - Reconnecting in 2 seconds (attempt 1)
+2025-06-30 16:49:10,325 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:10 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:49:10,328 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:10 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:49:10,329 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:49:10,330 - websocket_manager - INFO - Reconnecting in 4 seconds (attempt 2)
+2025-06-30 16:49:15,263 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:49:15,265 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:49:15,266 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:49:15,266 - websocket_manager - INFO - Reconnecting in 8 seconds (attempt 3)
+2025-06-30 16:49:24,230 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:24 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:49:24,231 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:24 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:49:24,231 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:49:24,232 - websocket_manager - INFO - Reconnecting in 16 seconds (attempt 4)
+2025-06-30 16:49:41,751 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:42 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:49:41,751 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:49:42 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:49:41,752 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:49:41,753 - websocket_manager - INFO - Reconnecting in 32 seconds (attempt 5)
+2025-06-30 16:50:02,312 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:50:02] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 16:50:09,344 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:50:09] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 16:50:10,311 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:10 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:50:10,312 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:10 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:50:10,313 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:50:10,314 - websocket_manager - INFO - Reconnecting in 2 seconds (attempt 1)
+2025-06-30 16:50:13,290 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:13 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:50:13,292 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:13 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:50:13,293 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:50:13,293 - websocket_manager - INFO - Reconnecting in 4 seconds (attempt 2)
+2025-06-30 16:50:14,720 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:50:14,722 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:50:14,723 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:50:14,725 - websocket_manager - INFO - Reconnecting in 8 seconds (attempt 3)
+2025-06-30 16:50:18,291 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:18 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:50:18,293 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:18 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:50:18,294 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:50:18,294 - websocket_manager - INFO - Reconnecting in 16 seconds (attempt 4)
+2025-06-30 16:50:23,696 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:24 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:50:23,698 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:24 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:50:23,699 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:50:23,699 - websocket_manager - INFO - Reconnecting in 32 seconds (attempt 5)
+2025-06-30 16:50:35,933 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:36 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 16:50:35,934 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 15:50:36 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 16:50:35,935 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 16:50:35,935 - websocket_manager - ERROR - Max reconnection attempts reached
+2025-06-30 16:55:44,798 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:55:45,032 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:55:45,267 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:55:45,796 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:55:45,880 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:55:45,927 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:55:45] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:56:19,305 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:56:19,540 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:56:19,774 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:56:20,182 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:56:20,242 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:56:20,292 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:56:49,763 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:56:49,873 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:56:49,920 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:57:19,313 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:57:19,556 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:57:19,791 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:57:20,179 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:57:20,250 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:57:20,299 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:57:37,518 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:57:37,589 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:57:37,642 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:37] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:57:49,418 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:57:49,522 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:57:49,568 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:58:19,304 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:58:19,548 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:58:19,780 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:58:20,108 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:58:20,169 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:58:20,216 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:58:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:58:49,389 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:58:49,482 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:58:49,537 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:58:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:59:19,307 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 16:59:19,542 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 16:59:19,782 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 16:59:20,123 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:59:20,185 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:59:20,227 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 16:59:49,415 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 16:59:49,514 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 16:59:49,552 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:00:19,303 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:00:19,534 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:00:19,774 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:00:20,128 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:00:20,187 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:00:20,238 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:00:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:00:49,375 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:00:49,441 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:00:49,495 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:00:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:01:19,323 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:01:19,589 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:01:19,827 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:01:20,161 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:01:20,218 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:01:20,261 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:01:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:01:49,369 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:01:49,440 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:01:49,491 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:01:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:02:19,318 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:02:19,564 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:02:19,806 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:02:20,139 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:02:20,198 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:02:20,247 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:02:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:02:49,375 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:02:49,439 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:02:49,497 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:02:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:03:19,312 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:03:19,548 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:03:19,786 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:03:20,112 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:03:20,171 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:03:20,207 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:03:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:03:49,385 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:03:49,445 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:03:49,494 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:03:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:04:19,304 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:04:19,539 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:04:19,787 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:04:20,098 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:04:20,160 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:04:20,206 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:04:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:04:49,723 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:04:49,817 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:04:49,865 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:04:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:05:19,294 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:05:19,528 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:05:19,758 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:05:20,349 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:05:20,439 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:05:20,507 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:05:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:05:49,700 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:05:49,807 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:05:49,876 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:05:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:06:19,388 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:06:19,629 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:06:19,871 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:06:21,412 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:06:21,569 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:06:21,619 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:06:21] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:06:49,725 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:06:49,841 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:06:49,903 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:06:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:07:19,316 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:07:19,553 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:07:19,790 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:07:20,388 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:07:20,507 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:07:20,573 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:07:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:07:49,827 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:07:49,948 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:07:50,002 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:07:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:08:19,317 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:08:19,558 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:08:19,798 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:08:20,412 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:08:20,537 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:08:20,610 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:08:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:08:49,388 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:08:49,459 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:08:49,509 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:08:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:09:19,304 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:09:19,545 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:09:19,788 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:09:20,167 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:09:20,225 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:09:20,272 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:09:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:09:49,400 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:09:49,476 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:09:49,525 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:09:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:10:19,297 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:10:19,537 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:10:19,774 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:10:20,150 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:10:20,211 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:10:20,270 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:10:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:10:49,402 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:10:49,485 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:10:49,533 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:10:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:11:19,310 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:11:19,550 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:11:19,786 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:11:20,157 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:11:20,217 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:11:20,262 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:11:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:11:49,440 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:11:49,518 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:11:49,565 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:11:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:12:19,305 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:12:19,537 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:12:19,767 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:12:20,143 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:12:20,199 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:12:20,250 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:12:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:12:49,523 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:12:49,585 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:12:49,646 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:12:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:13:19,311 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:13:19,549 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:13:19,785 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:13:20,162 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:13:20,219 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:13:20,267 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:13:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:13:49,509 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:13:49,573 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:13:49,623 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:13:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:14:19,312 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:14:19,662 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:14:19,896 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:14:20,253 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:14:20,309 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:14:20,361 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:14:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:14:49,656 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:14:49,744 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:14:49,781 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:14:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:15:19,326 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:15:19,558 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:15:19,792 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:15:20,150 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:15:20,214 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:15:20,265 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:15:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:15:49,514 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:15:49,584 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:15:49,628 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:15:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:16:19,303 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:16:19,533 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:16:19,774 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:16:20,149 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:16:20,205 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:16:20,239 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:16:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:16:49,381 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:16:49,482 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:16:49,534 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:16:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:16:53,052 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:16:53,285 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:16:53,517 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:16:54,023 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:16:54,104 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:16:54,153 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:16:54] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:17:19,384 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:17:19,445 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:17:19,498 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:17:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:17:49,313 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:17:49,553 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:17:49,796 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:17:50,150 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:17:50,209 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:17:50,244 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:17:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:18:19,381 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:18:19,446 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:18:19,490 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:18:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:18:49,308 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:18:49,544 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:18:49,779 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:18:50,110 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:18:50,189 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:18:50,226 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:18:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:19:19,382 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:19:19,441 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:19:19,507 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:19:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:19:49,329 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:19:49,614 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:19:49,839 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:19:50,231 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:19:50,284 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:19:50,328 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:19:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:20:19,374 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:20:19,439 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:20:19,489 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:20:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:20:49,310 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:20:49,547 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:20:49,775 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:20:50,246 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:20:50,302 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:20:50,350 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:20:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:21:19,384 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:21:19,451 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:21:19,500 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:21:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:21:49,312 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:21:49,554 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:21:49,795 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:21:50,227 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:21:50,308 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:21:50,355 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:21:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:22:19,378 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:22:19,437 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:22:19,489 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:22:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:22:49,307 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:22:49,544 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:22:49,789 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:22:50,191 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:22:50,254 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:22:50,303 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:22:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:23:19,394 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:23:19,454 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:23:19,501 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:23:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:23:49,320 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:23:49,558 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:23:49,795 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:23:50,107 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:23:50,194 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:23:50,249 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:23:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:24:19,364 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:24:19,441 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:24:19,486 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:24:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:24:46,308 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:24:46,544 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:24:46,779 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:24:47,142 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:24:47,191 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:24:47,227 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:24:47] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:24:49,443 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:24:49,508 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:24:49,556 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:24:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:25:19,332 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:25:19,589 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:25:19,842 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:25:20,621 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:25:20,733 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:25:20,791 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:25:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:25:49,751 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:25:49,878 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:25:49,948 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:25:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:26:19,333 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:26:19,606 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:26:19,848 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:26:20,703 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:26:20,812 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:26:20,898 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:26:20] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:26:49,579 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:26:49,664 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:26:49,722 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:26:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:27:12,116 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:27:12,348 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:27:12,581 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:27:12,910 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:27:12,970 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:27:13,029 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:27:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:27:19,558 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:27:19,628 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:27:19,675 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:27:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:27:49,332 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:27:49,585 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:27:49,852 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:27:50,546 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:27:50,696 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:27:50,744 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:27:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:28:10,783 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:28:10,858 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:28:10,905 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:10] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:28:19,383 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:28:19,441 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:28:19,488 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:28:28,151 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:28] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 17:28:30,939 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:30] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 17:28:32,427 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:32] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 17:28:32,478 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:33 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:28:32,478 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:33 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:28:32,478 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:28:33,448 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:33] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 17:28:34,386 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:35 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:28:34,388 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:35 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:28:34,389 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:28:34,390 - websocket_manager - INFO - Reconnecting in 2 seconds (attempt 1)
+2025-06-30 17:28:37,319 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:37 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:28:37,320 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:37 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:28:37,321 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:28:37,322 - websocket_manager - INFO - Reconnecting in 4 seconds (attempt 2)
+2025-06-30 17:28:42,272 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:42 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:28:42,273 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:42 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:28:42,274 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:28:42,275 - websocket_manager - INFO - Reconnecting in 8 seconds (attempt 3)
+2025-06-30 17:28:49,308 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:28:49,546 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:28:49,779 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:28:50,117 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:28:50,172 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:28:50,221 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:28:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:28:51,254 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:51 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:28:51,255 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:28:51 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:28:51,257 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:28:51,258 - websocket_manager - INFO - Reconnecting in 16 seconds (attempt 4)
+2025-06-30 17:29:08,212 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:29:08 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:29:08,213 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:29:08 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:29:08,215 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:29:08,216 - websocket_manager - INFO - Reconnecting in 32 seconds (attempt 5)
+2025-06-30 17:29:19,397 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:29:19,455 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:29:19,496 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:29:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:29:41,203 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:29:41 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:29:41,204 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:29:41 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:29:41,204 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:29:41,204 - websocket_manager - ERROR - Max reconnection attempts reached
+2025-06-30 17:29:49,316 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:29:49,552 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:29:49,788 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:29:50,277 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:29:50,355 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:29:50,406 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:29:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:30:19,624 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:30:19,763 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:30:19,832 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:30:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:30:49,307 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:30:49,551 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:30:49,799 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:30:50,191 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:30:50,273 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:30:50,319 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:30:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:31:19,386 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:31:19,447 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:31:19,501 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:31:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:31:49,304 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:31:49,546 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:31:49,783 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:31:50,107 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:31:50,162 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:31:50,208 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:31:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:32:19,393 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:32:19,456 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:32:19,512 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:32:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:32:49,322 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:32:49,554 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:32:49,789 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:32:50,112 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:32:50,210 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:32:50,257 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:32:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:33:19,389 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:33:19,451 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:33:19,505 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:33:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:33:49,298 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:33:49,530 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:33:49,757 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:33:50,087 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:33:50,142 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:33:50,177 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:33:50] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:34:19,388 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:34:19,448 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:34:19,500 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:34:19] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:35:07,229 - __main__ - INFO - Starting SOL/USDT Trading Dashboard...
+2025-06-30 17:35:07,253 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 17:35:07,253 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 17:35:07,740 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:35:07] "GET /health HTTP/1.1" 200 -
+2025-06-30 17:35:09,457 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:35:09,689 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:35:09,921 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:35:10,346 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:35:10,408 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:35:10,516 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:35:10] "GET / HTTP/1.1" 200 -
+2025-06-30 17:35:10,706 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:35:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 17:36:06,015 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:36:06] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 17:36:06,933 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:07 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:36:06,934 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:07 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:36:06,934 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:36:06,935 - websocket_manager - INFO - Reconnecting in 2 seconds (attempt 1)
+2025-06-30 17:36:09,892 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:10 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:36:09,892 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:10 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:36:09,893 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:36:09,893 - websocket_manager - INFO - Reconnecting in 4 seconds (attempt 2)
+2025-06-30 17:36:11,464 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:36:11,699 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:36:11,930 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:36:12,248 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:36:12,324 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:36:12,378 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:36:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:36:14,860 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:36:14,861 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:36:14,862 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:36:14,863 - websocket_manager - INFO - Reconnecting in 8 seconds (attempt 3)
+2025-06-30 17:36:23,815 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:24 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:36:23,815 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:24 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:36:23,816 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:36:23,817 - websocket_manager - INFO - Reconnecting in 16 seconds (attempt 4)
+2025-06-30 17:36:40,766 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:41 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:36:40,767 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:36:41 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:36:40,768 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:36:40,768 - websocket_manager - INFO - Reconnecting in 32 seconds (attempt 5)
+2025-06-30 17:36:41,696 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:36:41,763 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:36:41,810 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:36:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:37:06,268 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:37:06,532 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:37:06,775 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:37:07,119 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:37:07,175 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:37:07,222 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:37:07] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:37:11,700 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:37:11,770 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:37:11,816 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:37:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:37:13,736 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:37:14 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 17:37:13,736 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 16:37:14 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 17:37:13,736 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 17:37:13,737 - websocket_manager - ERROR - Max reconnection attempts reached
+2025-06-30 17:37:41,448 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:37:41,687 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:37:41,915 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:37:42,310 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:37:42,367 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:37:42,403 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:37:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:38:11,914 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:38:12,063 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:38:12,138 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:38:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:38:41,466 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:38:41,716 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:38:41,952 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:38:42,329 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:38:42,398 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:38:42,435 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:38:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:39:12,144 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:39:12,236 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:39:12,316 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:39:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:39:41,713 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:39:41,952 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:39:42,189 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:39:42,718 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:39:42,832 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:39:42,894 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:39:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:40:12,007 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:40:12,119 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:40:12,188 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:40:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:41:12,718 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:41:12,957 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:41:13,195 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:41:13,792 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:41:13,893 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:41:13,959 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:41:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:41:56,792 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:41:57,025 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:41:57,263 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:41:57,891 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:41:58,047 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:41:58,098 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:41:58] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:42:11,560 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:42:11,637 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:42:11,680 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:42:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:42:41,477 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:42:41,723 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:42:41,969 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:42:42,737 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:42:42,862 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:42:42,924 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:42:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:43:11,548 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:43:11,618 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:43:11,653 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:43:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:43:41,444 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:43:41,675 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:43:41,907 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:43:42,409 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:43:42,490 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:43:42,522 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:43:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:44:11,574 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:44:11,645 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:44:11,691 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:44:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:44:41,483 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:44:41,721 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:44:41,961 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:44:43,013 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:44:43,126 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:44:43,187 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:44:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:45:12,007 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:45:12,144 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:45:12,210 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:45:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:45:41,473 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:45:41,727 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:45:41,965 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:45:42,733 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:45:42,859 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:45:42,924 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:45:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:46:11,878 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:46:11,999 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:46:12,077 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:46:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:46:41,483 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:46:41,736 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:46:41,974 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:46:42,647 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:46:42,742 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:46:42,791 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:46:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:47:11,984 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:47:12,095 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:47:12,162 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:47:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:47:41,487 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:47:41,726 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:47:41,967 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:47:42,549 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:47:42,689 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:47:42,741 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:47:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:48:11,864 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:48:11,931 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:48:11,975 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:48:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:48:41,710 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:48:41,952 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:48:42,192 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:48:42,693 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:48:42,825 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:48:42,872 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:48:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:49:07,584 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:49:07,663 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:49:07,707 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:49:07] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:49:11,594 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:49:11,656 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:49:11,697 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:49:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:49:41,463 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:49:41,694 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:49:41,927 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:49:42,254 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:49:42,309 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:49:42,353 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:49:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:50:11,522 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:50:11,590 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:50:11,627 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:50:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:50:41,459 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:50:41,693 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:50:41,927 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:50:42,414 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:50:42,493 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:50:42,561 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:50:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:51:11,502 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:51:11,566 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:51:11,618 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:51:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:51:41,477 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:51:41,930 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:51:42,165 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:51:42,507 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:51:42,572 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:51:42,607 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:51:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:52:11,535 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:52:11,599 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:52:11,633 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:52:11] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:52:41,477 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:52:41,735 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:52:41,992 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:52:42,537 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:52:42,625 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:52:42,692 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:52:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:53:11,932 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:53:12,032 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:53:12,097 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:53:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:53:41,740 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:53:41,989 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:53:42,225 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:53:42,833 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:53:42,937 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:53:43,022 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:53:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:54:40,724 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:54:40,963 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:54:41,205 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:54:42,170 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:54:42,266 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:54:42,313 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:54:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:55:11,450 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:55:11,681 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:55:11,911 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:55:12,422 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:55:12,512 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:55:12,566 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:55:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:55:17,700 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:55:17,768 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:55:17,813 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:55:17] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:55:41,657 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:55:41,743 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:55:41,794 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:55:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:56:11,484 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:56:11,719 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:56:11,955 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:56:12,289 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:56:12,344 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:56:12,390 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:56:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:56:41,593 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:56:41,712 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:56:41,760 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:56:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:57:11,462 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:57:11,706 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:57:11,942 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:57:12,355 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:57:12,441 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:57:12,488 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:57:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:57:41,573 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:57:41,664 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:57:41,715 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:57:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:58:11,467 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:58:11,705 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:58:11,937 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:58:12,263 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:58:12,318 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:58:12,353 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:58:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:58:41,577 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:58:41,647 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:58:41,692 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:58:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:59:11,462 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 17:59:11,711 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 17:59:11,946 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 17:59:12,309 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:59:12,379 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:59:12,411 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:59:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 17:59:41,716 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 17:59:41,826 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 17:59:41,876 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:59:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:00:11,457 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:00:11,708 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:00:11,950 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:00:12,476 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:00:12,566 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:00:12,612 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:00:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:00:41,642 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:00:41,712 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:00:41,770 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:00:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:01:11,472 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:01:11,707 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:01:11,947 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:01:12,269 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:01:12,323 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:01:12,374 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:01:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:01:41,553 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:01:41,621 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:01:41,675 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:01:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:02:11,454 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:02:11,694 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:02:11,935 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:02:12,267 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:02:12,318 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:02:12,353 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:02:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:02:41,762 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:02:41,850 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:02:41,902 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:02:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:03:11,462 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:03:11,700 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:03:11,938 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:03:12,348 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:03:12,433 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:03:12,492 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:03:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:03:41,571 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:03:41,632 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:03:41,678 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:03:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:04:11,477 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:04:11,718 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:04:11,960 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:04:12,290 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:04:12,349 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:04:12,408 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:04:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:04:41,602 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:04:41,669 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:04:41,715 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:04:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:05:11,464 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:05:11,704 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:05:11,932 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:05:12,271 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:05:12,337 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:05:12,387 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:05:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:05:41,761 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:05:41,850 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:05:41,963 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:05:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:06:11,502 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:06:11,741 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:06:11,982 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:06:12,407 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:06:12,473 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:06:12,520 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:06:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:06:41,647 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:06:41,717 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:06:41,764 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:06:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:07:11,512 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:07:11,751 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:07:11,984 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:07:12,312 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:07:12,368 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:07:12,413 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:07:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:07:41,714 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:07:41,779 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:07:41,829 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:07:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:08:11,515 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:08:11,760 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:08:11,993 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:08:12,480 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:08:12,561 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:08:12,618 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:08:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:08:41,750 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:08:41,898 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:08:41,983 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:08:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:09:11,545 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:09:11,785 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:09:12,037 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:09:12,384 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:09:12,442 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:09:12,486 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:09:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:09:41,633 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:09:41,700 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:09:41,755 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:09:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:10:11,544 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:10:11,786 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:10:12,027 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:10:12,396 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:10:12,457 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:10:12,506 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:10:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:10:41,851 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:10:41,923 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:10:41,977 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:10:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:11:11,569 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:11:11,805 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:11:12,033 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:11:12,564 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:11:12,642 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:11:12,703 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:11:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:11:41,653 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:11:41,725 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:11:41,761 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:11:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:12:11,571 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:12:11,812 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:12:12,044 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:12:12,374 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:12:12,431 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:12:12,478 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:12:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:12:41,700 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:12:41,765 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:12:41,815 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:12:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:13:11,584 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:13:11,818 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:13:12,052 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:13:12,441 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:13:12,492 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:13:12,538 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:13:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:13:41,724 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:13:41,797 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:13:41,860 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:13:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:14:11,586 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:14:11,818 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:14:12,047 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:14:12,368 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:14:12,427 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:14:12,507 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:14:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:14:41,789 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:14:41,855 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:14:41,908 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:14:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:15:11,823 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:15:12,476 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:15:12,718 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:15:13,070 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:15:13,171 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:15:13,216 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:15:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:15:41,771 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:15:41,835 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:15:41,880 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:15:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:16:11,834 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:16:12,067 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:16:12,300 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:16:12,653 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:16:12,738 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:16:12,785 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:16:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:16:41,727 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:16:41,790 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:16:41,836 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:16:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:17:11,638 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:17:11,876 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:17:12,107 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:17:12,428 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:17:12,485 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:17:12,538 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:17:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:17:41,748 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:17:41,811 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:17:41,870 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:17:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:18:11,665 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:18:11,902 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:18:12,131 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:18:12,630 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:18:12,726 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:18:12,770 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:18:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:18:42,022 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:18:42,109 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:18:42,154 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:18:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:19:11,678 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:19:11,929 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:19:12,162 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:19:12,608 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:19:12,713 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:19:12,775 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:19:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:19:41,755 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:19:41,826 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:19:41,878 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:19:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:20:11,686 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:20:11,922 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:20:12,157 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:20:12,476 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:20:12,543 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:20:12,598 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:20:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:20:41,874 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:20:41,945 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:20:41,994 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:20:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:21:11,685 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:21:11,926 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:21:12,594 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:21:13,062 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:21:13,123 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:21:13,167 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:21:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:21:42,050 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:21:42,154 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:21:42,204 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:21:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:22:11,705 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:22:11,940 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:22:12,174 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:22:12,626 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:22:12,750 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:22:12,798 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:22:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:22:41,986 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:22:42,074 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:22:42,149 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:22:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:23:11,704 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:23:11,944 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:23:12,176 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:23:12,525 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:23:12,581 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:23:12,615 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:23:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:23:42,037 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:23:42,108 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:23:42,155 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:23:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:24:11,718 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:24:11,955 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:24:12,193 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:24:12,609 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:24:12,670 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:24:12,716 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:24:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:24:41,883 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:24:41,962 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:24:41,998 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:24:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:25:11,739 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:25:11,975 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:25:12,212 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:25:12,616 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:25:12,669 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:25:12,703 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:25:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:25:41,822 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:25:41,933 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:25:41,982 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:25:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:26:11,749 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:26:11,994 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:26:12,226 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:26:12,559 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:26:12,613 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:26:12,662 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:26:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:26:42,187 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:26:42,298 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:26:42,336 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:26:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:27:11,765 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:27:12,010 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:27:12,262 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:27:12,698 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:27:12,779 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:27:12,821 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:27:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:27:42,014 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:27:42,133 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:27:42,237 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:27:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:28:11,776 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:28:12,423 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:28:13,089 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:28:13,550 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:28:13,627 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:28:13,673 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:28:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:28:41,883 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:28:41,942 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:28:41,991 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:28:41] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:29:11,770 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:29:12,006 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:29:12,246 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:29:12,682 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:29:12,738 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:29:12,794 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:29:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:29:42,008 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:29:42,096 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:29:42,157 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:29:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:29:47,886 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:29:48,132 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:29:48,376 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:29:48,946 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:29:49,034 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:29:49,073 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:29:49] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:29:56,302 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:29:56,371 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:29:56,418 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:29:56] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:30:12,169 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:30:12,317 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:30:12,369 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:30:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:30:41,800 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:30:42,044 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:30:42,284 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:30:43,004 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:30:43,131 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:30:43,178 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:30:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:31:12,191 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:31:12,300 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:31:12,368 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:31:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:31:41,810 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:31:42,048 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:31:42,282 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:31:42,931 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:31:43,051 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:31:43,120 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:31:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:32:12,372 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:32:12,499 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:32:12,571 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:32:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:32:41,809 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:32:42,050 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:32:42,307 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:32:42,707 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:32:42,831 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:32:42,909 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:32:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:33:12,356 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:33:12,486 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:33:12,564 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:33:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:33:41,831 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:33:42,066 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:33:42,304 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:33:43,063 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:33:43,150 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:33:43,193 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:33:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:34:12,273 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:34:12,383 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:34:12,459 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:34:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:34:41,845 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:34:42,086 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:34:42,326 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:34:43,205 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:34:43,290 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:34:43,338 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:34:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:35:12,395 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:35:12,542 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:35:12,611 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:35:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:35:41,829 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:35:42,071 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:35:42,337 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:35:43,366 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:35:43,525 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:35:43,608 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:35:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:36:12,303 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:36:12,486 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:36:12,546 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:36:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:36:41,856 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:36:42,093 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:36:42,331 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:36:43,008 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:36:43,118 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:36:43,215 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:36:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:37:12,369 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:37:12,458 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:37:12,529 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:37:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:37:41,865 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:37:42,115 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:37:42,381 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:37:43,163 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:37:43,362 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:37:43,496 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:37:43] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:38:10,431 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:38:10] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 18:38:11,266 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:38:11] "POST /api/toggle_realtime HTTP/1.1" 200 -
+2025-06-30 18:38:11,948 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:38:12,017 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:38:12,065 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:38:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:38:12,216 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:12 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 18:38:12,217 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:12 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 18:38:12,218 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 18:38:12,219 - websocket_manager - INFO - Reconnecting in 2 seconds (attempt 1)
+2025-06-30 18:38:14,957 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:38:15,197 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:38:15,213 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 18:38:15,214 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:15 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 18:38:15,214 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 18:38:15,216 - websocket_manager - INFO - Reconnecting in 4 seconds (attempt 2)
+2025-06-30 18:38:15,434 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:38:15,843 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:38:15,927 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:38:15,981 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:38:15] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:38:20,138 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:20 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 18:38:20,139 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:20 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 18:38:20,139 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 18:38:20,139 - websocket_manager - INFO - Reconnecting in 8 seconds (attempt 3)
+2025-06-30 18:38:29,099 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:29 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 18:38:29,099 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:29 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 18:38:29,100 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 18:38:29,101 - websocket_manager - INFO - Reconnecting in 16 seconds (attempt 4)
+2025-06-30 18:38:41,974 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:38:42,030 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:38:42,077 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:38:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:38:46,075 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:46 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 18:38:46,076 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:38:46 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 18:38:46,077 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 18:38:46,078 - websocket_manager - INFO - Reconnecting in 32 seconds (attempt 5)
+2025-06-30 18:39:11,870 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:39:12,097 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:39:12,334 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:39:12,671 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:39:12,724 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:39:12,757 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:39:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:39:19,023 - websocket_manager - ERROR - WebSocket error: Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:39:19 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path'
+2025-06-30 18:39:19,024 - websocket - ERROR - Handshake status 404 Not Found -+-+- {'date': 'Mon, 30 Jun 2025 17:39:19 GMT', 'content-type': 'text/plain', 'content-length': '20', 'connection': 'keep-alive'} -+-+- b'Invalid request path' - goodbye
+2025-06-30 18:39:19,026 - websocket_manager - WARNING - WebSocket closed: None - None
+2025-06-30 18:39:19,026 - websocket_manager - ERROR - Max reconnection attempts reached
+2025-06-30 18:39:42,069 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:39:42,126 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:39:42,173 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:39:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:40:11,880 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:40:12,110 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:40:12,363 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:40:12,704 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:40:12,762 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:40:12,799 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:40:12] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:40:42,153 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:40:42,229 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:40:42,276 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:40:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:41:11,890 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:41:12,146 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:41:12,393 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:41:13,066 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:41:13,314 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:41:13,364 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:41:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:41:42,238 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:41:42,329 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:41:42,395 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:41:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:42:11,880 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:42:12,122 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:42:12,353 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:42:12,928 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:42:13,042 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:42:13,108 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:42:13] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:42:42,429 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:42:42,560 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:42:42,626 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:42:42] "GET /api/data HTTP/1.1" 200 -
+2025-06-30 18:43:12,804 - data_manager - INFO - Fetched 500 15m candles for SOLUSDT
+2025-06-30 18:43:13,173 - data_manager - INFO - Fetched 200 1h candles for SOLUSDT
+2025-06-30 18:43:14,080 - data_manager - INFO - Fetched 100 4h candles for SOLUSDT
+2025-06-30 18:43:14,686 - feature_engineering - INFO - Generated 22 features from 500 data points
+2025-06-30 18:43:14,776 - ml_model - INFO - Model bundle loaded from model\latest_model.joblib
+2025-06-30 18:43:14,840 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 18:43:14] "GET /api/data HTTP/1.1" 200 -
